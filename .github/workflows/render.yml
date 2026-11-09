@@ -1,0 +1,14 @@
+name: Render Site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: caltechlibrary/workflows/.github/actions/build-zensical@v1
+      - uses: caltechlibrary/workflows/.github/actions/deploy-site@v1
