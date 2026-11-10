@@ -4,7 +4,7 @@
     "name": "NSF FAIROS Curriculum",
     "identifier": "",
     "description": "Curriculum for NSF FAIROS grant",
-    "version": "",
+    "version": "0.0.1",
     "dateCreated": "2026-11-09",
     "author": [
         {
@@ -28,7 +28,7 @@
             },
             "familyName": "Morrell",
             "givenName": "Thomas E."
-        },
+        }
     ],
     "funder": {
         "@id": "https://ror.org/021nxhr62",

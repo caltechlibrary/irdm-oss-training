@@ -10,8 +10,8 @@ authors:
     orcid: https://orcid.org/0000-0001-9266-5146
 abstract: Curriculum for NSF FAIROS grant
 repository-code: "https://github.com/caltechlibrary/irdm-oss-training"
-doi:
-version:
+type: software
+version: 0.0.1
 type: dataset
 license-url: "https://github.com/caltechlibrary/irdm-oss-training/blob/main/LICENSE"
 keywords:
