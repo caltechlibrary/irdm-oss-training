@@ -1,4 +1,4 @@
-# Change log for REPOSITORY
+# Change log for NSF FAIROS Curriculum
 
 ## Version 0.0.0
 
