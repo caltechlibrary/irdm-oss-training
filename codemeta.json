@@ -20,7 +20,7 @@
             },
             "familyName": "Morrell",
             "givenName": "Thomas E."
-        },
+        }
     ],
     "funder": {
         "@id": "https://doi.org/10.13039/100006961",
@@ -37,7 +37,7 @@
     "downloadUrl": "https://github.com/caltechlibrary/irdm-oss-training/archive/main.zip",
     "keywords": [
         "training",
-        "InvenioRDM",
+        "InvenioRDM"
     ],
     "developmentStatus": "active"
 }
