@@ -37,7 +37,7 @@
     "downloadUrl": "https://github.com/caltechlibrary/irdm-oss-training/archive/main.zip",
     "keywords": [
         "training",
-        "InvenioRDM"
+        "InvenioRDM",
     ],
     "developmentStatus": "active"
 }
